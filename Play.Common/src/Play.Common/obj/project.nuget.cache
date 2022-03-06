@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7ES79dz6R4/kOTTt1FcE7q7vAqhZX5vTgvVI+Z8Tycl8I7Q5gCKpzLb4QU8OeaMp+CsygHCY/HlkLMEX8FCrfw==",
+  "dgSpecHash": "fF9gCxDFwrFPNxX5/aNMK6dm9thY40UnksyyXecaTH0fMwRfZtOvU+igza8S/4tNF3eGYy6wZoE6YHfpjKKhtA==",
   "success": true,
   "projectFilePath": "D:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\legion\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
