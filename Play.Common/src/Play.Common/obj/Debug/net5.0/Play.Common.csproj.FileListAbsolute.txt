@@ -1,0 +1,5 @@
+D:\Repositories\Microservices\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.AssemblyReference.cache
+D:\Repositories\Microservices\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Microservices\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+D:\Repositories\Microservices\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+D:\Repositories\Microservices\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
