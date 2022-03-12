@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -100,17 +100,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "MassTransit.AspNetCore": {
-              "target": "Package",
-              "version": "[7.3.1, )"
-            },
-            "MassTransit.RabbitMq": {
-              "target": "Package",
-              "version": "[7.3.1, )"
-            },
             "Play.Common": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -135,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

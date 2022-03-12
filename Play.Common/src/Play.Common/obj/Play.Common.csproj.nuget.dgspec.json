@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
+    "d:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
+    "d:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "d:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
-        "projectPath": "D:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectPath": "d:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
         "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\obj\\",
+        "outputPath": "d:\\Repositories\\Microservices\\Play.Common\\src\\Play.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Repositories\\Microservices\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +41,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -72,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

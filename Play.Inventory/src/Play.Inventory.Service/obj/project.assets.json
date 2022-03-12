@@ -1144,11 +1144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectUniqueName": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "projectName": "Play.Inventory.Service",
-      "projectPath": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectPath": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
+      "outputPath": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1209,7 +1209,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

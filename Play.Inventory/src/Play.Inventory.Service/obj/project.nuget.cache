@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CkALGWqrZWz2iSXVPXokSvUAZQdAm3KXwi9VXGbRTHD2Zhgd/NEineAHJKZ8M2K5FtAEUmLsNuEKxowsX6HbuQ==",
+  "dgSpecHash": "cEdU0x94s4zXuVyOQSO5OeiKJRXgL6VONArmWnb0xTAhZZ6s78EqLBqi+Jmn4M7s2jLnXhXXmGcsN2xQvbOycQ==",
   "success": true,
-  "projectFilePath": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+  "projectFilePath": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\legion\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\legion\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

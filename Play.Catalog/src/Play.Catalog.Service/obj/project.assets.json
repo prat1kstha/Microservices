@@ -426,9 +426,11 @@
           "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
         }
       },
-      "Play.Common/1.0.0": {
+      "Play.Common/1.0.1": {
         "type": "package",
         "dependencies": {
+          "MassTransit.AspNetCore": "7.3.1",
+          "MassTransit.RabbitMQ": "7.3.1",
           "Microsoft.Extensions.Configuration": "6.0.0",
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Microsoft.Extensions.DependencyInjection": "6.0.0",
@@ -1210,14 +1212,14 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
-    "Play.Common/1.0.0": {
-      "sha512": "I/cUNZqmr9CbL2E7LoRTirzRoIkLKnNfsDd6/r4plb3zMhjfMmolezRZsiHXSGbNt7YMhohJztd+hRqQQEviUw==",
+    "Play.Common/1.0.1": {
+      "sha512": "MA7HSaU68lAy0ivQaZ6wYBAcZol82cxro8fF7UcxGtN18uoJYyEgWlJpwGKGcw3XoGyLfA3siXWqvibFYbqxKg==",
       "type": "package",
-      "path": "play.common/1.0.0",
+      "path": "play.common/1.0.1",
       "files": [
         ".nupkg.metadata",
         "lib/net5.0/Play.Common.dll",
-        "play.common.1.0.0.nupkg.sha512",
+        "play.common.1.0.1.nupkg.sha512",
         "play.common.nuspec"
       ]
     },
@@ -1634,10 +1636,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "MassTransit.AspNetCore >= 7.3.1",
-      "MassTransit.RabbitMq >= 7.3.1",
       "Play.Catalog.Contracts >= 1.0.0",
-      "Play.Common >= 1.0.0",
+      "Play.Common >= 1.0.1",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -1685,17 +1685,9 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "MassTransit.AspNetCore": {
-            "target": "Package",
-            "version": "[7.3.1, )"
-          },
-          "MassTransit.RabbitMq": {
-            "target": "Package",
-            "version": "[7.3.1, )"
-          },
           "Play.Common": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.1, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -1720,7 +1712,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

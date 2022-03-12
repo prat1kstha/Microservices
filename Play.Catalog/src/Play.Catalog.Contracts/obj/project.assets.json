@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+      "projectUniqueName": "d:\\Repositories\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
       "projectName": "Play.Catalog.Contracts",
-      "projectPath": "D:\\Repositories\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+      "projectPath": "d:\\Repositories\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
       "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\obj\\",
+      "outputPath": "d:\\Repositories\\Microservices\\Play.Catalog\\src\\Play.Catalog.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
