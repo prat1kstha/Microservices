@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
+    "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {}
   },
   "projects": {
-    "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
+    "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectUniqueName": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "projectName": "Play.Inventory.Service",
-        "projectPath": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+        "projectPath": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
         "packagesPath": "C:\\Users\\legion\\.nuget\\packages\\",
-        "outputPath": "d:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
+        "outputPath": "D:\\Repositories\\Microservices\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,9 +45,13 @@
               "target": "Package",
               "version": "[6.0.2, )"
             },
-            "Play.Common": {
+            "Play.Catalog.Contracts": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Play.Common": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

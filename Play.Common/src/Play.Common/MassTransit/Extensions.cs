@@ -3,7 +3,6 @@ using MassTransit;
 using MassTransit.Definition;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Play.Catalog.Service.Settings;
 using Play.Common.Settings;
 
 namespace Play.Common.MassTransit
